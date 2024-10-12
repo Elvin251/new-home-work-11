@@ -18,8 +18,8 @@ body{
 
 }
 .img{
-    width: 200px;
-    height: 200px;
+    width: 100vw;
+    height: 100vh;
 }
 
 .sm{
@@ -51,6 +51,7 @@ body{
     }
 .item{
     border: 0.1px solid rgb(0, 0, 0,0.3);
+  
 }
     .iti{
         width: 100%;
